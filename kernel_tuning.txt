@@ -1,0 +1,2 @@
+kernel.scheduler=optimized
+kernel.swappiness=10
