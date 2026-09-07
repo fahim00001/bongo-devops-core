@@ -1,2 +1,2 @@
 kernel.scheduler=performance
-kernel.swappiness=10
+kernel.swappiness=5
