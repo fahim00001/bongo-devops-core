@@ -1,2 +1,2 @@
-mode=balanced
+mode=power-save
 workers=4
